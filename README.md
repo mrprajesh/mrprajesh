@@ -1,18 +1,20 @@
 ### Hi there 👋
 
- 
+ ![GitHub](https://img.shields.io/github/followers/mrprajesh?color=999999&label=GitHub&logo=github&style=for-the-badge)
+[![Twitter](https://img.shields.io/twitter/follow/mrprajesh?color=00AAFF&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/mrprajesh)
+
 **mrprajesh/mrprajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... PhD Paper(s).
+- 🌱 I’m currently learning ... openACC, Rust (wish to)
+- 👯 I’m looking to collaborate on ... Research
+- 🤔 I’m looking for help with ... Horning my soft skills
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... Twitter
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ...[Amatuer Photographer](https://instagram.com/mrprajesh234)
  
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrprajesh&count_private=true&theme=cobalt2&show_icons=true)
