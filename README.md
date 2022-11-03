@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=mrprajesh&style=for-the-badge)
  ![GitHub](https://img.shields.io/github/followers/mrprajesh?color=999999&label=GitHub&logo=github&style=for-the-badge)
 [![Twitter](https://img.shields.io/twitter/follow/mrprajesh?color=00AAFF&label=Twitter&logo=twitter&style=for-the-badge)](https://twitter.com/mrprajesh)
 
