@@ -8,8 +8,8 @@
 
  
 
-- 🔭 I’m currently working on ... PhD Paper(s).
-- 🌱 I’m currently learning ... openACC, Rust (wish to)
+- 🔭 I’m currently finishing my PhD. 
+- 🌱 I’m currently learning ... LLM, 
 - 👯 I’m looking to collaborate on ... Research
 - 🤔 I’m looking for help with ... Horning my soft skills
 - 💬 Ask me about ... Anything
